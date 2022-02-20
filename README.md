@@ -1,5 +1,5 @@
 # Git Workflow Example
 #### Practice other setup
-- Practice push new features update readme
+- Practice code conflict on local
 
 
