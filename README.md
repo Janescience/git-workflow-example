@@ -1,2 +1,4 @@
 # Git Workflow Example
-# Conflict Test
+#### Practice other setup
+- Practice push new feature
+
