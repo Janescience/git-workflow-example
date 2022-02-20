@@ -1,4 +1,4 @@
 # Git Workflow Example
 #### Practice other setup
-- Practice push new feature
+- Practice push new features
 
